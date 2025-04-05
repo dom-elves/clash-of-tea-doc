@@ -43,7 +43,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |----|-------|-------------|-----------|
 |:white_check_mark:| 2 | 100 | 10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes |
 |:white_check_mark:| 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |
-| | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
+| :white_check_mark: | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
 | | 5 | 400 | 20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese |
 | | 6 | 500 | 2 Colosseum Uniques, 100,000 Coins, 1 Kurask Head, 5,000 Logs, 2 Kraken Tentacles |
 | | 7 | 600 | 2 Godsword Shards, 250,000 Coins, 1,000 Gems, 6,000 Ores, 100 Willow Logs |
