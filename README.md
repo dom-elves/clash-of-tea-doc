@@ -113,7 +113,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | Unlocked | Level | Requirements |
 |---|-------|-------------|
 | :white_check_mark: | 2 | 5 Sapphire Rings, 100 Blood Runes |
-| | 3 | 100 Magic Logs |
+| :white_check_mark: | 3 | 100 Magic Logs |
 | | 4 | 2 Ancient Staves |
 | | 5 | 1,000 Gold Ore |
 | | 6 | 100,000 Coins |
