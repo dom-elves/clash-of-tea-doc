@@ -100,7 +100,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 100 Bones |
 | :white_check_mark: | 2 | 2 Grimy Guams |
 | :white_check_mark: | 3 | 5 Grimy Marrentills |
-|  | 4 | 2 Splitbark Legs |
+| :white_check_mark: | 4 | 2 Splitbark Legs |
 |  | 5 | 25 Unidentified Small Fossils |
 |  | 6 | 2 Crystal Keys |
 |  | 7 | 2 Glacial Temotlis |
