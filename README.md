@@ -59,8 +59,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 1,000 Coins, 500 Pure Essence |
 | :white_check_mark: | 2 | 6 Scurrius' Spines |
 | :white_check_mark: | 3 | 200 Blighted Manta Rays |
-| | 4 | 2 Splitbark Bodies |
-| | 5 | 50,000 Coins |
+| :white_check_mark: | 4 | 2 Splitbark Bodies |
+| :white_check_mark: | 5 | 50,000 Coins |
 | | 6 | 2 Tzhaar-ket-oms |
 | | 7 | 500 Dynamite |
 | | 8 | 2 Dragon Boots |
