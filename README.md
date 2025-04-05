@@ -160,8 +160,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 150 Runes, 1,000 Coins |
 | :white_check_mark: | 2 | 5,000 Coins, 250 Runes |
 | :white_check_mark: | 3 | 20 Ranarr Seeds, 20,000 Coins, 500 Ores |
-| | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
-| | 5 | 50,000 Coins, 500 Runes |
+| :white_check_mark: | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
+| :white_check_mark: | 5 | 50,000 Coins, 500 Runes |
 | | 6 | 1 Chromium Ingot |
 | | 7 | 2 Abyssal Whips, 5,000 Runes |
 | | 8 | 30,000 Sunfire Splinters |
