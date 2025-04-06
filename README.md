@@ -132,7 +132,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 3 | 123 Mahogany Logs |
 | :white_check_mark: | 4 | 10 Zombie Pirate Keys |
 | :white_check_mark: | 5 | 2 Sinister Keys |
-| | 6 | 100 Mole Claws |
+| :white_check_mark: | 6 | 100 Mole Claws |
 | | 7 | 2 Dark Claws |
 | | 8 | 2 Ancient Icons |
 | | 9 | 2 Hueycoatl Hides |
