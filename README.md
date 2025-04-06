@@ -129,9 +129,9 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |---|-------|-------------|
 | :white_check_mark: | 1 | 50 Herbs |
 | :white_check_mark: | 2 | 50 Steel Bars |
-| | 3 | 123 Mahogany Logs |
-| | 4 | 10 Zombie Pirate Keys |
-| | 5 | 2 Sinister Keys |
+| :white_check_mark: | 3 | 123 Mahogany Logs |
+| :white_check_mark: | 4 | 10 Zombie Pirate Keys |
+| :white_check_mark: | 5 | 2 Sinister Keys |
 | | 6 | 100 Mole Claws |
 | | 7 | 2 Dark Claws |
 | | 8 | 2 Ancient Icons |
