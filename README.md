@@ -114,9 +114,9 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |---|-------|-------------|
 | :white_check_mark: | 2 | 5 Sapphire Rings, 100 Blood Runes |
 | :white_check_mark: | 3 | 100 Magic Logs |
-| | 4 | 2 Ancient Staves |
-| | 5 | 1,000 Gold Ore |
-| | 6 | 100,000 Coins |
+| :white_check_mark: | 4 | 2 Ancient Staves |
+| :white_check_mark: | 5 | 1,000 Gold Ore |
+| :white_check_mark: | 6 | 100,000 Coins |
 | | 7 | 6 Rune Boots |
 | | 8 | 300,000 Coins |
 | | 9 | 500 Dragon Arrowtips |
