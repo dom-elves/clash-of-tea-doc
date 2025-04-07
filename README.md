@@ -73,10 +73,10 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |----|-------|-------------|
 | :white_check_mark: | 1 | 100 Runes, 50 Seeds, 1,000 Coins |
 | :white_check_mark: | 2 | 100 Herbs, 25,000 Coins |
-| | 3 | 2 Iron Halberds, 5,000 Body Runes |
-| | 4 | 100,000 Coins |
-| | 5 | 200,000 Coins |
-| | 6 | 200 Mole Skins |
+| :white_check_mark: | 3 | 2 Iron Halberds, 5,000 Body Runes |
+| :white_check_mark: | 4 | 100,000 Coins |
+| :white_check_mark: | 5 | 200,000 Coins |
+| :white_check_mark: | 6 | 200 Mole Skins |
 | | 7 | 200 Lily of the Sands |
 | | 8 | 300,000 Coins |
 | | 9 | 2 Bottomless Compost Buckets |
