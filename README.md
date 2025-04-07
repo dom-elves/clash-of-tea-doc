@@ -21,6 +21,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |        8       |    4.0     |     35     |
 |        9       |    5.0     |     50     |
 
+## Combat related stuff
 
 ## 🏰 Town Hall
 *The main goal is to upgrade this building.*
@@ -50,6 +51,18 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | | 8 | 700 | 2 Armadyl Uniques, 10,000 Gems, 5 Giant Egg Sacs |
 | | 9 | 9999+ | 2 Colosseum Uniques, 1,000,000 Coins, 2 Ancient Totems, 10 DKs Rings, 2 Granite Shields, 2 Granite Helms |
 
+## 🏯 Garrisons
+*Allows you to access drops from raids*
+
+| Unlocked | Level | Requirements | Unlocks |
+|-----|-------|-------------|---------|
+| :white_check_mark: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
+| :white_check_mark: | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
+| | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
+| | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
+| | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
+
+## Skilling resource multipliers
 
 ## 🧵 Crafting Guild
 *Multiplies gem drops*
@@ -80,17 +93,6 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | | 7 | 200 Lily of the Sands |
 | | 8 | 300,000 Coins |
 | | 9 | 2 Bottomless Compost Buckets |
-
-## 🏯 Garrisons
-*Allows you to access drops from raids*
-
-| Unlocked | Level | Requirements | Unlocks |
-|-----|-------|-------------|---------|
-| :white_check_mark: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
-| :white_check_mark: | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
-| | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
-| | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
-| | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
 
 ## 🌿 Herbalist's Hut
 *Multiplies herb drops*
@@ -152,21 +154,6 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple |
 | | 9 | 99 | 300 Runite Bars, 500,000 Coins |
 
-## 💰 Treasury
-*Multiplies coin drops*
-
-| Unlocked | Level | Requirements |
-|----|-------|-------------|
-| :white_check_mark: | 1 | 150 Runes, 1,000 Coins |
-| :white_check_mark: | 2 | 5,000 Coins, 250 Runes |
-| :white_check_mark: | 3 | 20 Ranarr Seeds, 20,000 Coins, 500 Ores |
-| :white_check_mark: | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
-| :white_check_mark: | 5 | 50,000 Coins, 500 Runes |
-| | 6 | 1 Chromium Ingot |
-| | 7 | 2 Abyssal Whips, 5,000 Runes |
-| | 8 | 30,000 Sunfire Splinters |
-| | 9 | 10 Vials of Blood |
-
 
 ## 🪓 Woodcutter's Lodge
 *Multiplies log drops*
@@ -212,5 +199,37 @@ Many upgrades require resource categories rather than specific items. Here are t
 - **Elder Chaos Robes**: Any piece of the elder chaos robes set
 - **Malediction/Odium Shards**: Any shard for these shields
 - **Any Quartz**: Any type of quartz
+
+## Defunct Buildings
+
+## 🌿 Herbalist's Hut
+*Multiplies herb drops*
+
+| Unlocked | Level | Requirements |
+|----|-------|-------------|
+| :white_check_mark: | 1 | 100 Bones |
+| :white_check_mark: | 2 | 2 Grimy Guams |
+| :white_check_mark: | 3 | 5 Grimy Marrentills |
+| :white_check_mark: | 4 | 2 Splitbark Legs |
+|  | 5 | 25 Unidentified Small Fossils |
+|  | 6 | 2 Crystal Keys |
+|  | 7 | 2 Glacial Temotlis |
+|  | 8 | 4 Dragon Halberds |
+|  | 9 | 1,000 Guam Seeds |
+
+## 💰 Treasury
+*Multiplies coin drops*
+
+| Unlocked | Level | Requirements |
+|----|-------|-------------|
+| :white_check_mark: | 1 | 150 Runes, 1,000 Coins |
+| :white_check_mark: | 2 | 5,000 Coins, 250 Runes |
+| :white_check_mark: | 3 | 20 Ranarr Seeds, 20,000 Coins, 500 Ores |
+| :white_check_mark: | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
+| :white_check_mark: | 5 | 50,000 Coins, 500 Runes |
+| | 6 | 1 Chromium Ingot |
+| | 7 | 2 Abyssal Whips, 5,000 Runes |
+| | 8 | 30,000 Sunfire Splinters |
+| | 9 | 10 Vials of Blood |
 
 Remember to focus on upgrading buildings that provide the most value for your team's current activities!
