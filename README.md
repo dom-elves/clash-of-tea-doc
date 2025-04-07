@@ -70,7 +70,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 2 | 70 | 100 Ores, 100 Bones, 5 Scaly Blue Dragonhides |
 | :white_check_mark: | 3 | 75 | 2 Crawling Hands, 4 Tops of Sceptre |
 | :white_check_mark: | 4 | 80 | 6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs |
-| | 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
+| :white_check_mark: | 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
 | | 6 | 87 | 1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple |
 | | 7 | 91 | 2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins |
 | | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple |
