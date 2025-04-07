@@ -21,7 +21,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |        8       |    4.0     |     35     |
 |        9       |    5.0     |     50     |
 
-## Combat related stuff
+# Combat related stuff
 
 ## 🏰 Town Hall
 *The main goal is to upgrade this building.*
@@ -62,7 +62,21 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
 | | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
 
-## Skilling resource multipliers
+## 🗡️ Slayer Master
+*Allows you to get loot from monsters with slayer requirements*
+
+| Unlocked | Level | Slayer level | Requirements |
+|----|----|-------|-------------|
+| :white_check_mark: | 2 | 70 | 100 Ores, 100 Bones, 5 Scaly Blue Dragonhides |
+| :white_check_mark: | 3 | 75 | 2 Crawling Hands, 4 Tops of Sceptre |
+| :white_check_mark: | 4 | 80 | 6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs |
+| | 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
+| | 6 | 87 | 1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple |
+| | 7 | 91 | 2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins |
+| | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple |
+| | 9 | 99 | 300 Runite Bars, 500,000 Coins |
+
+# Skilling resource multipliers
 
 ## 🧵 Crafting Guild
 *Multiplies gem drops*
@@ -140,21 +154,6 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | | 9 | 2 Hueycoatl Hides |
 
 
-## 🗡️ Slayer Master
-*Allows you to get loot from monsters with slayer requirements*
-
-| Unlocked | Level | Slayer level | Requirements |
-|----|----|-------|-------------|
-| :white_check_mark: | 2 | 70 | 100 Ores, 100 Bones, 5 Scaly Blue Dragonhides |
-| :white_check_mark: | 3 | 75 | 2 Crawling Hands, 4 Tops of Sceptre |
-| :white_check_mark: | 4 | 80 | 6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs |
-| | 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
-| | 6 | 87 | 1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple |
-| | 7 | 91 | 2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins |
-| | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple |
-| | 9 | 99 | 300 Runite Bars, 500,000 Coins |
-
-
 ## 🪓 Woodcutter's Lodge
 *Multiplies log drops*
 
@@ -200,7 +199,7 @@ Many upgrades require resource categories rather than specific items. Here are t
 - **Malediction/Odium Shards**: Any shard for these shields
 - **Any Quartz**: Any type of quartz
 
-## Defunct Buildings
+# Defunct Buildings
 
 ## 🌿 Herbalist's Hut
 *Multiplies herb drops*
