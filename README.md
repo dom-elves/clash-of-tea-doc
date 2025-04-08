@@ -29,7 +29,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | Unlocked | Level | Requirements |
 |----|-------|-------------|
 | :white_check_mark: | 2 | 500 Bones, 100,000 Coins |
-| | 3 | 4 Zenyte Shards, 2 Dragon Plateskirts |
+| :white_check_mark: | 3 | 4 Zenyte Shards, 2 Dragon Plateskirts |
 | | 4 | 10 DKs Rings, 300 Iron Ore, 5,000 Runes |
 | | 5 | 2 KBD Heads, 200 Runite Ore, 4,000 Yew Logs, 6 Awakener's Orbs |
 | | 6 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore |
