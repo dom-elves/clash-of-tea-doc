@@ -30,7 +30,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |----|-------|-------------|
 | :white_check_mark: | 2 | 500 Bones, 100,000 Coins |
 | :white_check_mark: | 3 | 4 Zenyte Shards, 2 Dragon Plateskirts |
-| | 4 | 10 DKs Rings, 300 Iron Ore, 5,000 Runes |
+| :white_check_mark: | 4 | 10 DKs Rings, 300 Iron Ore, 5,000 Runes |
 | | 5 | 2 KBD Heads, 200 Runite Ore, 4,000 Yew Logs, 6 Awakener's Orbs |
 | | 6 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore |
 | | 7 | 4 Zulrah Uniques, 2 Cerberus Crystals, 5,000 Gems, 10,000 Seeds, 1,000 Clay, 100,000 Coins, 10,000 Soul Runes, 2,500 Mithril Ore, 2 Venator Shards |
