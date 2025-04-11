@@ -34,7 +34,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | | 5 | 2 KBD Heads, 200 Runite Ore, 4,000 Yew Logs, 6 Awakener's Orbs |
 | | 6 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore |
 | | 7 | 4 Zulrah Uniques, 2 Cerberus Crystals, 5,000 Gems, 10,000 Seeds, 1,000 Clay, 100,000 Coins, 10,000 Soul Runes, 2,500 Mithril Ore, 2 Venator Shards |
-| | 8 | ~~2 ToA Purple~~, ~~2~~ 1 Araxxor Uniques, 5,000 Bones, 500 Crystal Shards, 3 Dragon Axes, 1,000,000 Coins, 20 Awakener's Orbs |
+| | 8 | ~~2 ToA Purple~~, ~~3~~ 2 Araxxor Uniques, 5,000 Bones, 500 Crystal Shards, 3 Dragon Axes, 1,000,000 Coins, 20 Awakener's Orbs |
 | | 9 | 2 CoX Purple, 2 Zamorak Uniques, 10,000 Seeds, 2,500,000 Coins, 100,000 Ores, 10,000 Logs, 50 Vials of Blood |
 
 ## ⚔️ Armory
