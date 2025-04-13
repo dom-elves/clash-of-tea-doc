@@ -49,7 +49,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 6 | 500 | 2 Colosseum Uniques, 100,000 Coins, 1 Kurask Head, 5,000 Logs, 2 Kraken Tentacles |
 | :white_check_mark: | 7 | 600 | 2 Godsword Shards, 250,000 Coins, 1,000 Gems, 6,000 Ores, 100 Willow Logs |
 | :white_check_mark: | 8 | 700 | 2 Armadyl Uniques, 10,000 Gems, 5 Giant Egg Sacs |
-| | 9 | 9999+ | 2 Colosseum Uniques, 1,000,000 Coins, 2 Ancient Totems, 10 DKs Rings, 2 Granite Shields, 2 Granite Helms |
+| :white_check_mark: | 9 | 9999+ | 2 Colosseum Uniques, 1,000,000 Coins, 2 Ancient Totems, 10 DKs Rings, 2 Granite Shields, 2 Granite Helms |
 
 ## 🏯 Garrisons
 *Allows you to access drops from raids*
