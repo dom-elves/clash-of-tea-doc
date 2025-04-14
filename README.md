@@ -73,8 +73,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
 | :white_check_mark: | 6 | 87 | 1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple |
 | :white_check_mark: | 7 | 91 | 2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins |
-| | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, ~~2 ToA Purple~~ |
-| | 9 | 99 | 300 Runite Bars, 500,000 Coins |
+| :white_check_mark: | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, ~~2 ToA Purple~~ |
+| :white_check_mark: | 9 | 99 | 300 Runite Bars, 500,000 Coins |
 
 # Skilling resource multipliers
 
